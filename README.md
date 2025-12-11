@@ -17,7 +17,7 @@ The database contains 5 main tables:
 - *OrderDetails* – Items and quantities for each order  
 
 ### 📌 ER Diagram  
-![ER Diagram](er-diagram.png)
+![ER Diagram](er-daigram.png)
 
 ---
 
